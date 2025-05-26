@@ -65,4 +65,4 @@ Este es mi portafolio personal desarrollado como proyecto evaluativo para la mat
 
 ## Despliegue
 Puedes ver la versión en línea aquí:
-➡️ https://johana-sevillano.vercel.app ← (ajusta este enlace cuando hagas el deploy)
+➡️ [https://johana-sevillano.vercel.app](https://johana-sevillano-portafolio.vercel.app/) ← (Deloy en Vercel)
