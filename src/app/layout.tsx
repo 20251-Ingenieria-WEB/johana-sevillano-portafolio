@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   description: "Versión corregida con estilos funcionando",
 };
 
+
 export default function RootLayout({
   children,
 }: Readonly<{
