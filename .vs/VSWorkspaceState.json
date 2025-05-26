@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\Sidebar",
+    "\\src\\sections",
+    "\\src\\sections\\Conocimientos",
+    "\\src\\sections\\Educacion",
+    "\\src\\sections\\Perfil",
+    "\\src\\sections\\Portafolio",
+    "\\src\\types"
+  ],
+  "SelectedNode": "\\src\\components\\Sidebar\\Idiomas.tsx",
+  "PreviewInSolutionExplorer": false
+}
